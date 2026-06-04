@@ -13,10 +13,12 @@ An interactive and fully responsive portfolio website built with TypeScript, Thr
 **Tech Stack**: TypeScript, Three.js, Tailwind CSS, JavaScript
 
 **Getting Started:**
+```bash
 git clone https://github.com/jassicadsouza/3d_Portfolio
 cd portfolio
 npm install
 npm run dev
+```
 
 **Author**
 **Jassica Dsouza**
