@@ -21,5 +21,7 @@ npm run dev
 ```
 
 **Author**
+
 **Jassica Dsouza**
+
 Feel free to connect with me and explore my other projects!
